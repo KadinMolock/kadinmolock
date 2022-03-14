@@ -1,2 +1,2 @@
 # kadinmolock
-This is my portfolio for Capston 1
+This is my portfolio for Capstone 1
